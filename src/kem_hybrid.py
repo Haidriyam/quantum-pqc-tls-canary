@@ -5,7 +5,7 @@ to protect cyber-physical telemetry against Harvest-Now-Decrypt-Later (HNDL).
 """
 import os
 import hashlib
-from typing import Tuple, Dict, Any
+from typing import Tuple, Dict
 from cryptography.hazmat.primitives.asymmetric import x25519
 
 
